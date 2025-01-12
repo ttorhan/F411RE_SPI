@@ -1160,8 +1160,8 @@ LOAD c:/dev/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10
  *(.rodata)
  *(.rodata*)
  .rodata.main.str1.4
-                0x080016fc        0xd build/main.o
- *fill*         0x08001709        0x3 
+                0x080016fc        0xf build/main.o
+ *fill*         0x0800170b        0x1 
  .rodata.AHBPrescTable
                 0x0800170c       0x10 build/system_stm32f4xx.o
                 0x0800170c                AHBPrescTable
