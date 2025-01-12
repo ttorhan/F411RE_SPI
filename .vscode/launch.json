@@ -10,7 +10,7 @@
             "executable": "./build/F411RE_SPI.elf",
             "request": "launch",
             "type": "cortex-debug",
-            "runToEntryPoint": "main",
+            //"runToEntryPoint": "main",
             "servertype": "openocd",
             "device": "STM32F411RE",
             "configFiles": [
