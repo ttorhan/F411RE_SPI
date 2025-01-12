@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
   28:Core/Src/stm32f4xx_hal_msp.c **** /* Private typedef -----------------------------------------------------------*/
   29:Core/Src/stm32f4xx_hal_msp.c **** /* USER CODE BEGIN TD */
   30:Core/Src/stm32f4xx_hal_msp.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 2
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 2
 
 
   31:Core/Src/stm32f4xx_hal_msp.c **** /* USER CODE END TD */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
   42              		.loc 1 71 3 view .LVU2
   43 0004 0021     		movs	r1, #0
   44 0006 0091     		str	r1, [sp]
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 3
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 3
 
 
   45              		.loc 1 71 3 view .LVU3
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
   89              	.LFE220:
   91              		.section	.text.HAL_ADC_MspInit,"ax",%progbits
   92              		.align	1
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 4
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 4
 
 
   93              		.global	HAL_ADC_MspInit
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
   99:Core/Src/stm32f4xx_hal_msp.c **** 
  100:Core/Src/stm32f4xx_hal_msp.c ****     __HAL_RCC_GPIOA_CLK_ENABLE();
  101:Core/Src/stm32f4xx_hal_msp.c ****     /**ADC1 GPIO Configuration
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 5
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 5
 
 
  102:Core/Src/stm32f4xx_hal_msp.c ****     PA0-WKUP     ------> ADC1_IN0
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  163 003e 0291     		str	r1, [sp, #8]
  100:Core/Src/stm32f4xx_hal_msp.c ****     /**ADC1 GPIO Configuration
  164              		.loc 1 100 5 view .LVU31
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 6
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 6
 
 
  165 0040 1A6B     		ldr	r2, [r3, #48]
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  116:Core/Src/stm32f4xx_hal_msp.c **** 
  117:Core/Src/stm32f4xx_hal_msp.c **** /**
  118:Core/Src/stm32f4xx_hal_msp.c **** * @brief ADC MSP De-Initialization
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 7
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 7
 
 
  119:Core/Src/stm32f4xx_hal_msp.c **** * This function freeze the hardware resources used in this example
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  136:Core/Src/stm32f4xx_hal_msp.c **** 
  239              		.loc 1 136 5 view .LVU50
  240 0016 0121     		movs	r1, #1
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 8
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 8
 
 
  241 0018 0348     		ldr	r0, .L15+8
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  286 0006 0393     		str	r3, [sp, #12]
  287 0008 0493     		str	r3, [sp, #16]
  288 000a 0593     		str	r3, [sp, #20]
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 9
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 9
 
 
  289 000c 0693     		str	r3, [sp, #24]
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  306 001a F0BD     		pop	{r4, r5, r6, r7, pc}
  307              	.LVL13:
  308              	.L20:
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 10
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 10
 
 
  309              	.LCFI11:
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  163:Core/Src/stm32f4xx_hal_msp.c ****     /**SPI2 GPIO Configuration
  349              		.loc 1 163 5 view .LVU75
  350 004c 1A6B     		ldr	r2, [r3, #48]
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 11
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 11
 
 
  351 004e 42F00202 		orr	r2, r2, #2
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  178:Core/Src/stm32f4xx_hal_msp.c ****     GPIO_InitStruct.Pull = GPIO_NOPULL;
  389              		.loc 1 178 5 is_stmt 1 view .LVU92
  178:Core/Src/stm32f4xx_hal_msp.c ****     GPIO_InitStruct.Pull = GPIO_NOPULL;
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 12
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 12
 
 
  390              		.loc 1 178 26 is_stmt 0 view .LVU93
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  430              		@ frame_needed = 0, uses_anonymous_args = 0
  431              		.loc 1 199 1 is_stmt 0 view .LVU103
  432 0000 08B5     		push	{r3, lr}
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 13
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 13
 
 
  433              	.LCFI12:
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  460 001a FFF7FEFF 		bl	HAL_GPIO_DeInit
  461              	.LVL21:
  216:Core/Src/stm32f4xx_hal_msp.c **** 
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 14
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 14
 
 
  462              		.loc 1 216 5 is_stmt 1 view .LVU111
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  508 000e 0793     		str	r3, [sp, #28]
  234:Core/Src/stm32f4xx_hal_msp.c ****   if(huart->Instance==USART2)
  509              		.loc 1 234 3 is_stmt 1 view .LVU117
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 15
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 15
 
 
  510              		.loc 1 234 11 is_stmt 0 view .LVU118
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  535 0022 03F5FA33 		add	r3, r3, #128000
  536 0026 1A6C     		ldr	r2, [r3, #64]
  537 0028 42F40032 		orr	r2, r2, #131072
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 16
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 16
 
 
  538 002c 1A64     		str	r2, [r3, #64]
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  251:Core/Src/stm32f4xx_hal_msp.c ****     HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
  576              		.loc 1 251 5 is_stmt 1 view .LVU140
  251:Core/Src/stm32f4xx_hal_msp.c ****     HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 17
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 17
 
 
  577              		.loc 1 251 31 is_stmt 0 view .LVU141
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  621 0004 064B     		ldr	r3, .L39
  622 0006 9A42     		cmp	r2, r3
  623 0008 00D0     		beq	.L38
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 18
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 18
 
 
  624              	.LVL29:
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  657              		.file 4 "Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h"
  658              		.file 5 "Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h"
  659              		.file 6 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h"
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 19
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 19
 
 
  660              		.file 7 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h"
@@ -1087,32 +1087,32 @@ ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 1
  663              		.file 10 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h"
  664              		.file 11 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h"
  665              		.file 12 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h"
-ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s 			page 20
+ARM GAS  C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s 			page 20
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32f4xx_hal_msp.c
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:20     .text.HAL_MspInit:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:26     .text.HAL_MspInit:00000000 HAL_MspInit
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:87     .text.HAL_MspInit:0000003c $d
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:92     .text.HAL_ADC_MspInit:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:98     .text.HAL_ADC_MspInit:00000000 HAL_ADC_MspInit
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:197    .text.HAL_ADC_MspInit:00000064 $d
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:202    .text.HAL_ADC_MspDeInit:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:208    .text.HAL_ADC_MspDeInit:00000000 HAL_ADC_MspDeInit
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:251    .text.HAL_ADC_MspDeInit:00000020 $d
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:258    .text.HAL_SPI_MspInit:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:264    .text.HAL_SPI_MspInit:00000000 HAL_SPI_MspInit
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:411    .text.HAL_SPI_MspInit:00000090 $d
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:418    .text.HAL_SPI_MspDeInit:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:424    .text.HAL_SPI_MspDeInit:00000000 HAL_SPI_MspDeInit
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:472    .text.HAL_SPI_MspDeInit:0000002c $d
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:480    .text.HAL_UART_MspInit:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:486    .text.HAL_UART_MspInit:00000000 HAL_UART_MspInit
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:592    .text.HAL_UART_MspInit:00000068 $d
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:598    .text.HAL_UART_MspDeInit:00000000 $t
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:604    .text.HAL_UART_MspDeInit:00000000 HAL_UART_MspDeInit
-C:\Users\tugru\AppData\Local\Temp\ccRT8nPK.s:647    .text.HAL_UART_MspDeInit:00000020 $d
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:20     .text.HAL_MspInit:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:26     .text.HAL_MspInit:00000000 HAL_MspInit
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:87     .text.HAL_MspInit:0000003c $d
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:92     .text.HAL_ADC_MspInit:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:98     .text.HAL_ADC_MspInit:00000000 HAL_ADC_MspInit
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:197    .text.HAL_ADC_MspInit:00000064 $d
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:202    .text.HAL_ADC_MspDeInit:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:208    .text.HAL_ADC_MspDeInit:00000000 HAL_ADC_MspDeInit
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:251    .text.HAL_ADC_MspDeInit:00000020 $d
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:258    .text.HAL_SPI_MspInit:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:264    .text.HAL_SPI_MspInit:00000000 HAL_SPI_MspInit
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:411    .text.HAL_SPI_MspInit:00000090 $d
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:418    .text.HAL_SPI_MspDeInit:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:424    .text.HAL_SPI_MspDeInit:00000000 HAL_SPI_MspDeInit
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:472    .text.HAL_SPI_MspDeInit:0000002c $d
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:480    .text.HAL_UART_MspInit:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:486    .text.HAL_UART_MspInit:00000000 HAL_UART_MspInit
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:592    .text.HAL_UART_MspInit:00000068 $d
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:598    .text.HAL_UART_MspDeInit:00000000 $t
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:604    .text.HAL_UART_MspDeInit:00000000 HAL_UART_MspDeInit
+C:\Users\tugru\AppData\Local\Temp\ccfrz6hu.s:647    .text.HAL_UART_MspDeInit:00000020 $d
 
 UNDEFINED SYMBOLS
 HAL_NVIC_SetPriorityGrouping
